@@ -1,0 +1,28 @@
+.interview-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 280px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  .feedback, .start {
+    background-color: #6b63ff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .feedback:hover, .start:hover {
+    background-color: #574edd;
+  }
+  
